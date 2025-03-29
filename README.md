@@ -7,10 +7,11 @@
 <a href="https://escoladanuvem.org"><a href="https://aws.amazon.com/pt/?nc2=h_lg">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" width="150" alt="AWS Logo">
 </a>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV1xf24ZfPXmIIRZRYnCyvZVqn4mSD1b79xw&s" width="80" alt="AWS Logo"/>
 <img src="https://files.svgcdn.io/logos/aws-ec2.svg" width="80" alt="AWS Logo">-
     <img src="https://github.com/HalleyVeras/Escola_da_Nuvem/blob/main/Documentos/download%20(4)_processed.png?raw=true" width="180" alt="Second Image">
 </a>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV1xf24ZfPXmIIRZRYnCyvZVqn4mSD1b79xw&s" width="80" alt="AWS Logo"/>
+
 </div>
 
 # Laboratório 1: Explorando a AWS com o Amazon EC2
