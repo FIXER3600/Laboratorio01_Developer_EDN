@@ -101,10 +101,10 @@ Este laboratório fornece uma visão básica e prática sobre instâncias EC2, a
 
 ## Demonstração em Vídeo
 ### Configuração da EC2 via Console AWS
-[Coloque o link do vídeo aqui]
+https://github.com/user-attachments/assets/23ab995a-2273-4d18-b13b-241a595839c4
 
 ### Configuração da EC2 via CloudShell
-[Coloque o link do vídeo aqui]
+https://github.com/user-attachments/assets/191d1c11-adc4-4b1b-b016-6c18a6f48140
 
 ---
 
